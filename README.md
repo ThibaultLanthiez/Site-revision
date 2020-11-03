@@ -8,7 +8,7 @@ J'ai ensuite partagé mon site à mes camarades de promotion, qu'ils l'ont tout 
 
 Ce site a été développé via le site [Wix](https://fr.wix.com/). J'ai choisis Wix plutôt que des langages Web car l'interface était très simple d'utilisation et que je pouvais modifier le site très rapidement depuis n'importe quel ordinateur.
 
-Il a recu beaucoup de mises à jour durant les deux annnées de DUT. Cependant, mis à part un rafraichissement des fiches sur Python, ce site n'a pas beaucoup été modifié depuis en entrée à l'ENSIMAG. 
+Il a recu beaucoup de mises à jour durant mes deux annnées de DUT. Cependant, mis à part un rafraichissement des fiches sur Python, ce site n'a pas beaucoup été modifié depuis mon entrée à l'[ENSIMAG](https://ensimag.grenoble-inp.fr/). 
 
 Voici mon site : [Lien site](https://revisioninformatique.wixsite.com/stid)
 
