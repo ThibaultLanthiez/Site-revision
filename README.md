@@ -4,7 +4,7 @@
 
 Pendant mes deux années de DUT Statistique et Informatique Décisionnelle (STID), j'ai créé un site sous forme de fiches de révison sur les différents langages que j'étudiais. Cela m'a permis de synthétiser l'information et le "vocabulaire" des langages informatiques appris. En effet, l'apprentissage de langage informatique était quelque chose de nouveau pour moi. Il a donc fallu résumer et mettre au clair ce que j'apprennais pour ne pas me perdre avec les nombreux langages étudiés durant ma formation. 
 
-J'ai ensuite partagé mon site à mes camarades de promotion, qu'ils l'ont tout de suite adopté pour leurs révisions. Puis, petit à petit, il s'est fait connaître en dehors de mon DUT. D'ailleurs, j'ai souvent des questions d'étudiants d'origine universitaire différentes. 
+J'ai ensuite partagé mon site à mes camarades de promotion, qu'ils l'ont tout de suite adopté pour leurs révisions. Puis, petit à petit, il s'est fait connaître en dehors de mon DUT. D'ailleurs, j'ai souvent des questions d'étudiants d'origine universitaire différente. 
 
 Ce site a été développé via le site Wix. J'ai choisis Wix plutôt que des langages Web car l'interface était très simple d'utilisation et que je pouvais modifier le site très rapidement depuis n'importe quel ordinateur.
 
