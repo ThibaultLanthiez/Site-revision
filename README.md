@@ -10,8 +10,8 @@ Ce site a été développé via le site [Wix](https://fr.wix.com/). J'ai choisis
 
 Il a recu beaucoup de mises à jour durant mes deux annnées de DUT. Cependant, mis à part un rafraichissement des fiches sur Python, ce site n'a pas beaucoup été modifié depuis mon entrée à l'[ENSIMAG](https://ensimag.grenoble-inp.fr/). 
 
-**Voici mon site :** [Fiches Révisions DUT STID](https://revisioninformatique.wixsite.com/stid)
+**Voici mon site :** [Fiches Révision DUT STID](https://revisioninformatique.wixsite.com/stid)
 
 ou tapez ***DUT STID langage*** ou ***STID révision*** sur Google.
 
-Vous y trouverez des fiches de révisions pour les langages suivants : SAS, R, SQL, Python VBA Excel et un peu de langages Web (HTML, JavaScript, PHP, CSS).
+Vous y trouverez des fiches de révision pour les langages suivants : SAS, R, SQL, Python VBA Excel et un peu de langages Web (HTML, JavaScript, PHP, CSS).
