@@ -6,13 +6,11 @@ Pendant mes deux années de DUT Statistique et Informatique Décisionnelle (STID
 
 J'ai ensuite partagé mon site à mes camarades de promotion, qu'ils l'ont tout de suite adopté pour leurs révisions. Puis, petit à petit, il s'est fait connaître en dehors de mon DUT. D'ailleurs, j'ai souvent des questions d'étudiants d'origine universitaire différente. 
 
--------
-
 Ce site a été développé via le site [Wix](https://fr.wix.com/). J'ai choisi Wix plutôt que les langages Web car l'interface était très simple d'utilisation et je pouvais modifier le site très rapidement depuis n'importe quel ordinateur.
 
 Il a reçu beaucoup de mises à jour durant mes deux annnées de DUT. Cependant, mis à part un rafraichissement des fiches sur Python, ce site n'a pas beaucoup été modifié depuis mon entrée à l'ENSIMAG. 
 
--------
+# Site
 
 **Voici mon site :** [Fiches Révision DUT STID](https://revisioninformatique.wixsite.com/stid)
 
