@@ -16,4 +16,4 @@ Il a reçu beaucoup de mises à jour durant mes deux années de DUT. Cependant, 
 
 Vous pouvez aussi taper ***DUT STID langage*** ou ***STID révision*** sur Google.
 
-Vous y trouverez des fiches de révision sur les langages suivants : SAS, R, SQL, Python VBA Excel et un peu de langages web (HTML, JavaScript, PHP, CSS).
+Vous y trouverez des fiches de révision sur les langages suivants : SAS, R, SQL, Python, VBA Excel et un peu de langages web (HTML, JavaScript, PHP, CSS).
